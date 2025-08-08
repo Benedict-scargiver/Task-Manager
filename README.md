@@ -4,7 +4,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ## Video Link
 
-
+https://www.loom.com/share/36054781308a4b7c87a24864a36ba998?sid=c4c768f2-216f-4c73-a80f-ffc1f0e668b1
 
 ## Overview
 
